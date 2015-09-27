@@ -18,10 +18,10 @@ from bs4 import UnicodeDammit
 #   ￣^Y^Y^YY^Y^Y^Y￣
 
 oath_key_dict = {
-    "consumer_key": "qtQofYXpfbuN0hNTCI5uWSgJY",
-    "consumer_secret": "W3EhHzzIf08QocZ9yNS55sxQEGDus0wTLO5qKAOhs7SHFNfemO",
-    "access_token": "3193141501-OZUG2QLhI83nwDQYbf5DGvQkaZ3jSc8zlDqUFg3",
-    "access_token_secret": "WoMdd7ksQJ3O1eYJYYIyK2zc9xY7ykVpxtyayOG1aO7Ve"
+    "consumer_key": "**********",
+    "consumer_secret": "**********",
+    "access_token": "***********",
+    "access_token_secret": "*********"
 }
 
 class Tweet:
